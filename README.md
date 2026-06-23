@@ -11,6 +11,8 @@
 
 # 🎨 PixelForge
 
+<img width="2720" height="1360" alt="pixelforge_project_banner" src="https://github.com/user-attachments/assets/19bb7573-8ecb-4023-ab65-9a58c7b68117" />
+
 ### A fast, browser-based image-to-Arduino converter
 
 **Transform PNG/JPG images into ready-to-use `.h` files for ESP32, STM32, Arduino, RP2040, and any RGB565 or OLED bitmap display — entirely in your browser, no server required.**
