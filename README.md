@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/PixelForge-R.S.Nithesh-cyan?style=for-the-badge&logo=github" alt="R.S.Nithesh - PixelForge"/>
 &nbsp;
-<img src="https://img.shields.io/github/downloads/R-S-Nithesh/PixelForge/total?style=for-the-badge&color=brightgreen" alt="Total Downloads"/>
-&nbsp;
 <img src="https://img.shields.io/github/stars/R-S-Nithesh/PixelForge?style=for-the-badge&color=yellow" alt="Stars"/>
 &nbsp;
 <img src="https://img.shields.io/github/forks/R-S-Nithesh/PixelForge?style=for-the-badge&color=blue" alt="Forks"/>
